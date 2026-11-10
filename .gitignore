@@ -1,0 +1,11 @@
+# Arquivos do sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# Compilação Arduino / PlatformIO
+build/
+.pio/
+*.hex
+*.elf
+*.bin
